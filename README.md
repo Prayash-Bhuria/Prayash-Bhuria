@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prayash Bhuria</h1>
-<samp align="center">Currently a Third year ECE student at<a href="[https://www.nutanix.com/](https://nitkkr.ac.in/)">@NitKkr </a>.Interested in learning and exploring more about Full Stack Development. Occasionaly I participate in contests and hackathons.</samp>
+<samp align="center">Currently a Third year ECE student at<a href="https://nitkkr.ac.in">@NitKkr </a>.Interested in learning and exploring more about Full Stack Development. Occasionaly I participate in contests and hackathons.</samp>
 
 - 🌱 I’m currently learning **React**
 
