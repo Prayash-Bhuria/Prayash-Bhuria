@@ -20,3 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prayash-bhuria&show_icons=true&locale=en&layout=compact" alt="prayash-bhuria" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prayash-bhuria&show_icons=true&locale=en" alt="prayash-bhuria" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=saifurrahman1193&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
