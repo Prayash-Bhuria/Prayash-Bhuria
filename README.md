@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prayash Bhuria</h1>
-<h3 align="center">Currently a Third year ECE student at @NITKURUKSHETRA and aspiring software developer.Interested in working on Full-Stack Web Development.Occasionaly i participate in contests and hackathons.</h3>
+<samp align="center">Currently a Third year ECE student at @NITKURUKSHETRA and aspiring software developer.Interested in working on Full-Stack Web Development.Occasionaly i participate in contests and hackathons.</samp>
 
 - 🌱 I’m currently learning **React**
 
