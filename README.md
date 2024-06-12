@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prayash-bhuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prayash-bhuria" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prayashbhuria9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prayashbhuria9" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/prayashbhuria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prayashbhuria9" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prayashbhuria931" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prayashbhuria931" height="30" width="40" /></a>
 </p>
 
