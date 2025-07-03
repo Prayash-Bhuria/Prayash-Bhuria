@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prayash Bhuria</h1>
-<samp align="center">Currently a Third year ECE student at <a href="https://nitkkr.ac.in">@NitKkr </a>.Interested in learning and exploring more about Full Stack Development. Occasionaly I participate in contests and hackathons.</samp>
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **MERN**
+<samp align="center">Hello! I'm a proactive B.Tech graduate from NIT Kurukshetra, with a strong focus on software development and data science. Currently working as a Data Scientist at Axis Bank BIU (Hybrid, Bangalore), I contribute to underwriting and marketplace loan platforms using tools like Python, PySpark, SQL, Hive, and Jupyter.</samp>
 
 - 📫 How to reach me **prayashbhuria931@gmail.com**
 
